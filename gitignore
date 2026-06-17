@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.db
+settings.json
+dist/
+build/
+*.spec
+.manus_file_organizer/
+.organiza_facil/

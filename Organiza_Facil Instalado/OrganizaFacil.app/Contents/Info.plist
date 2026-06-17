@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>OrganizaFacil</string>
+	<key>CFBundleExecutable</key>
+	<string>OrganizaFacil</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-6f0853ab6b23bbc8781f94358c1b2418df850eb94d60c7390d2dc8f57e2a3523.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>OrganizaFacil</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>OrganizaFacil</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>

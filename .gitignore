@@ -9,3 +9,24 @@ build/
 *.spec
 .manus_file_organizer/
 .organiza_facil/
+.DS_Store
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Variáveis de ambiente
+.env
